@@ -1,20 +1,20 @@
-table,project,sponsors,link,category,special,teamMembers
-1,Lickster,,,,,Miles Chandler & Will Sherwood
-2,Music Video Maker,,,,,Sam Maynard
-3,Meow Mixer,,,,,Megan Weijiang
-4,Spotify Reordering (WIP),,,,,David Chen and Christian Sweet
-5,There Will Come Soft Rains,,,,,"Joshua Richardson, Me, Myself, and I"
-6,Groovify,,,,,"Ben Stobaugh, Diego Maceda, Toan-James Le"
-7,Musical Tomfoolery,,,,,"Justin Hill, Mounika Puligurthi"
-8,USound,,,,,"Karishma Patel, Siwei Mao, Kimberly Hwang"
-9,Longhorn Visualizer,,,,,Bella Shah
-10,Doggo Visualizer,,,,,"Lucy Liu, Minh-Tri Ho, Eric Su"
-11,Wubba,,,,,"Tarang Khandpur, William Chia, Rodolfo Gonzalez"
-12,Muse,,,,,"Mindy Chi, Supawit Chockchowwat, Jake Crabtree, Channing Pear"
-13,The Music In Written Word,,,,,"Sydney Criswell, Omar Olivarez, Oby Umelloh"
-14,Virtual Pedals,,,,,Ian Philips
-15,Prizimizer,,,,,"Vamsi Ghorakavi, Vikram Sundaram"
-16,PND Visualizer,,,,,"Kevin Avila, Steven Villarreal"
-17,Chopped'n'Screwed,,,,,"Gabrielle Ransom, Stacy Nguyen, Antonio Banda, Alex Lin, Julian Medrano, Allison Wilkes"
-18,Note Sprite,,,,,Emily Young
-19,Color Noise,,,,,"Jordan Cahill, Brandon Torio, Allen Wang, Eddie Tribaldos, Nikita Zamwar, Eitan Yarmush"
+table,project,sponsors,link,category,special,teamMembers,github
+1,Lickster,,,,,Miles Chandler & Will Sherwood,https://github.com/willsherwood/music-hacks-17
+2,Music Video Maker,,,,,Sam Maynard,https://github.com/samm81/music-video-mixer
+3,Meow Mixer,,,,,Megan Weijiang,https://github.com/meganweijiang/music-hacks
+4,Spotify Reordering (WIP),,,,,David Chen and Christian Sweet,https://github.com/CSweetBlue/MusicReorg
+5,There Will Come Soft Rains,,,,,"Joshua Richardson, Me, Myself, and I",https://github.com/kirby117101/musichacks2017
+6,Groovify,,,,,"Ben Stobaugh, Diego Maceda, Toan-James Le",https://github.com/Legoben/groovify
+7,Musical Tomfoolery,,,,,"Justin Hill, Mounika Puligurthi",https://github.com/mpuligurthi/MusicHacks2017.git
+8,USound,,,,,"Karishma Patel, Siwei Mao, Kimberly Hwang",https://play.google.com/store/apps/details?id=com.hack.music.usound
+9,Longhorn Visualizer,,,,,Bella Shah,https://github.com/BellaShah/Longhorn_Visualizer
+10,Doggo Visualizer,,,,,"Lucy Liu, Minh-Tri Ho, Eric Su",https://github.com/iShinta/MusicHacks_WhoLetTheDogBark
+11,Wubba,,,,,"Tarang Khandpur, William Chia, Rodolfo Gonzalez",https://github.com/TKnologic104/Music_Hacks
+12,Muse,,,,,"Mindy Chi, Supawit Chockchowwat, Jake Crabtree, Channing Pear",https://github.com/mindietea/muse
+13,The Music In Written Word,,,,,"Sydney Criswell, Omar Olivarez, Oby Umelloh",https://github.com/omarolivarez/themcsicinwrittenword
+14,Virtual Pedals,,,,,Ian Philips,https://github.com/IanPhilips/VirtualPedals
+15,Prizimizer,,,,,"Vamsi Ghorakavi, Vikram Sundaram",
+16,PND Visualizer,,,,,"Kevin Avila, Steven Villarreal",https://github.com/stevenvill/p5_visualizer
+17,Chopped'n'Screwed,,,,,"Gabrielle Ransom, Stacy Nguyen, Antonio Banda, Alex Lin, Julian Medrano, Allison Wilkes",https://github.com/gmr006/Music-Hacks
+18,Note Sprite,,,,,Emily Young,https://github.com/Remin/MusicHacks2017
+19,Color Noise,,,,,"Jordan Cahill, Brandon Torio, Allen Wang, Eddie Tribaldos, Nikita Zamwar, Eitan Yarmush",https://drive.google.com/open?id=1JQC9yhkL1Ju29pLLi8WcesCkHg7DkU9NhBipBs6p-8E

@@ -63,7 +63,12 @@ You can also use your own favico or Hackathon logo/header.
         {{#data}}
           <tr>
             <td class="number">{{table}}</td>
-            <td class="name"><a href="{{{link}}}" target="_blank">{{project}}</a></td>
+			{{#github}}
+            <td class="name"><a href="{{github}}" target="_blank">{{project}}</a></td>
+			{{/github}}
+			{{^github}}
+			<td class="name">{{project}}</td>
+			{{/github}}
 			<td class="teamMembers">{{teamMembers}}</td>
 			<!-- <td class="teamMembers">{{}}</td> -->
             <!-- <td class="prize">{{sponsors}}</td> -->
