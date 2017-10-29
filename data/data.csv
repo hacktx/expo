@@ -1,20 +1,85 @@
 table,project,sponsors,link,category,special,teamMembers,github
-1,Lickster,,,,,Miles Chandler & Will Sherwood,https://github.com/willsherwood/music-hacks-17
-2,Music Video Maker,,,,,Sam Maynard,https://github.com/samm81/music-video-mixer
-3,Meow Mixer,,,,,Megan Weijiang,https://github.com/meganweijiang/music-hacks
-4,Spotify Reordering (WIP),,,,,David Chen and Christian Sweet,https://github.com/CSweetBlue/MusicReorg
-5,There Will Come Soft Rains,,,,,"Joshua Richardson, Me, Myself, and I",https://github.com/kirby117101/musichacks2017
-6,Groovify,,,,,"Ben Stobaugh, Diego Maceda, Toan-James Le",https://github.com/Legoben/groovify
-7,Musical Tomfoolery,,,,,"Justin Hill, Mounika Puligurthi",https://github.com/mpuligurthi/MusicHacks2017.git
-8,USound,,,,,"Karishma Patel, Siwei Mao, Kimberly Hwang",https://play.google.com/store/apps/details?id=com.hack.music.usound
-9,Longhorn Visualizer,,,,,Bella Shah,https://github.com/BellaShah/Longhorn_Visualizer
-10,Doggo Visualizer,,,,,"Lucy Liu, Minh-Tri Ho, Eric Su",https://github.com/iShinta/MusicHacks_WhoLetTheDogBark
-11,Wubba,,,,,"Tarang Khandpur, William Chia, Rodolfo Gonzalez",https://github.com/TKnologic104/Music_Hacks
-12,Muse,,,,,"Mindy Chi, Supawit Chockchowwat, Jake Crabtree, Channing Pear",https://github.com/mindietea/muse
-13,The Music In Written Word,,,,,"Sydney Criswell, Omar Olivarez, Oby Umelloh",https://github.com/omarolivarez/themcsicinwrittenword
-14,Virtual Pedals,,,,,Ian Philips,https://github.com/IanPhilips/VirtualPedals
-15,Prizimizer,,,,,"Vamsi Ghorakavi, Vikram Sundaram",
-16,PND Visualizer,,,,,"Kevin Avila, Steven Villarreal",https://github.com/stevenvill/p5_visualizer
-17,Chopped'n'Screwed,,,,,"Gabrielle Ransom, Stacy Nguyen, Antonio Banda, Alex Lin, Julian Medrano, Allison Wilkes",https://github.com/gmr006/Music-Hacks
-18,Note Sprite,,,,,Emily Young,https://github.com/Remin/MusicHacks2017
-19,Color Noise,,,,,"Jordan Cahill, Brandon Torio, Allen Wang, Eddie Tribaldos, Nikita Zamwar, Eitan Yarmush",https://drive.google.com/open?id=1JQC9yhkL1Ju29pLLi8WcesCkHg7DkU9NhBipBs6p-8E
+1,Stitch,,,,,,http://hacktx17.devpost.com/submissions/80271-stitch
+2,Treble Class,Community Building Award (Facebook),,,,,http://hacktx17.devpost.com/submissions/80296-treble-class
+3,Prox,"Amazon Web Services - Best Use of AWS, Social Good Challenge (JP Morgan Chase & Co), Help A Community / Environment (CBRE), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80302-prox
+4,MyCanvas,"Use Mongo the Best!! (MongoDB), Best project with a .tech domain name (.TECH)",,,,,http://hacktx17.devpost.com/submissions/80340-mycanvas
+5,HelpPlz: Disaster Coordination,"Social Good Challenge (JP Morgan Chase & Co), Use Mongo the Best!! (MongoDB), Best project with a .tech domain name (.TECH), Best Microsoft Hack (Microsoft), Help A Community / Environment (CBRE), Community Building Award (Facebook)",,,,,http://hacktx17.devpost.com/submissions/80379-helpplz-disaster-coordination
+6,Optasia,"Best Retail Solution (BlueChasm), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80443-optasia
+7,Hacking A Cold One,"Best Domain Name from Domain.com, Bring Your Favorite Sci-Fi Technology to Life (BlueChasm), Best Data Visualization (Goldman Sachs), Best Retail Solution (BlueChasm), Best Hack Involving a Financial Transaction (HBK Capital Management), Amazon Web Services - Best Use of AWS, Best Use of Data Visualization (Qualtrics), Best Financial Hack (Capital One), Gas Station of the Future (ExxonMobil), Social Good Challenge (JP Morgan Chase & Co), Use Mongo the Best!! (MongoDB), Best project with a .tech domain name (.TECH), Best Microsoft Hack (Microsoft), Best Education Hack (TeacherTalent), Help A Community / Environment (CBRE), SSO Challenge (ViaSat), Community Building Award (Facebook)",,,,,http://hacktx17.devpost.com/submissions/80467-hacking-a-cold-one
+8,Samaritan,"Best IoT Hack Using a Qualcomm Device, Best Domain Name from Domain.com, Bring Your Favorite Sci-Fi Technology to Life (BlueChasm), Best Data Visualization (Goldman Sachs), Best Retail Solution (BlueChasm), Best Hack Involving a Financial Transaction (HBK Capital Management), Amazon Web Services - Best Use of AWS, Best Use of Data Visualization (Qualtrics), Best Financial Hack (Capital One), Generate Consumer Insights Using Citi APIs (Citi FinTech), Gas Station of the Future (ExxonMobil), Social Good Challenge (JP Morgan Chase & Co), Use Mongo the Best!! (MongoDB), Best project with a .tech domain name (.TECH), Best Microsoft Hack (Microsoft), Best Education Hack (TeacherTalent), Help A Community / Environment (CBRE), SSO Challenge (ViaSat), Most Startup-Viable Hack (Contrary Capital), Community Building Award (Facebook), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80470-samaritan
+9,Friendzy ,"Best Microsoft Hack (Microsoft), Community Building Award (Facebook)",,,,,http://hacktx17.devpost.com/submissions/80509-friendzy
+10,Virtual Visualizer,"Best Data Visualization (Goldman Sachs), Best Use of Data Visualization (Qualtrics)",,,,,http://hacktx17.devpost.com/submissions/80512-virtual-visualizer
+11,DeepFortune,"Best project with a .tech domain name (.TECH), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80532-deepfortune
+12,GameBoard,"Bring Your Favorite Sci-Fi Technology to Life (BlueChasm), Social Good Challenge (JP Morgan Chase & Co), Help A Community / Environment (CBRE), Community Building Award (Facebook)",,,,,http://hacktx17.devpost.com/submissions/80535-gameboard
+13,crowd_sense,"Best Data Visualization (Goldman Sachs), Best Use of Data Visualization (Qualtrics), Best Microsoft Hack (Microsoft)",,,,,http://hacktx17.devpost.com/submissions/80542-crowd_sense
+14,Tunify,"Best Domain Name from Domain.com, Bring Your Favorite Sci-Fi Technology to Life (BlueChasm), Best Data Visualization (Goldman Sachs), Best Retail Solution (BlueChasm), Best Hack Involving a Financial Transaction (HBK Capital Management), Best Use of Data Visualization (Qualtrics), Gas Station of the Future (ExxonMobil), Use Mongo the Best!! (MongoDB), Best project with a .tech domain name (.TECH), Best Microsoft Hack (Microsoft), Community Building Award (Facebook), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80547-tunify
+15,ExxonMobil HackTX Challenge,"Gas Station of the Future (ExxonMobil), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80555-exxonmobil-hacktx-challenge
+16,Better Eat$,"Best Hack Involving a Financial Transaction (HBK Capital Management), Best Financial Hack (Capital One), Generate Consumer Insights Using Citi APIs (Citi FinTech), Best project with a .tech domain name (.TECH), Best Education Hack (TeacherTalent), Help A Community / Environment (CBRE), Most Startup-Viable Hack (Contrary Capital)",,,,,http://hacktx17.devpost.com/submissions/80568-better-eat
+17,Graffiti,Community Building Award (Facebook),,,,,http://hacktx17.devpost.com/submissions/80575-graffiti
+18,Stethonotes,"Bring Your Favorite Sci-Fi Technology to Life (BlueChasm), Best project with a .tech domain name (.TECH)",,,,,http://hacktx17.devpost.com/submissions/80578-stethonotes
+19,hivemind,,,,,,http://hacktx17.devpost.com/submissions/80581-hivemind
+20,offers,"Best Financial Hack (Capital One), Community Building Award (Facebook)",,,,,http://hacktx17.devpost.com/submissions/80585-offers
+21,Phonemes,"Best Education Hack (TeacherTalent), Community Building Award (Facebook), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80587-phonemes
+22,GeoRelief,"Best Domain Name from Domain.com, Best Use of Data Visualization (Qualtrics), Social Good Challenge (JP Morgan Chase & Co), Help A Community / Environment (CBRE), Community Building Award (Facebook), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80588-georelief
+23,canibuyalcoholnow.com,,,,,,http://hacktx17.devpost.com/submissions/80591-canibuyalcoholnow-com
+24,Scheduler,,,,,,http://hacktx17.devpost.com/submissions/80594-scheduler
+25,test,,,,,,http://hacktx17.devpost.com/submissions/80595-test
+26,Audary,"Best Domain Name from Domain.com, Use Mongo the Best!! (MongoDB), Best Microsoft Hack (Microsoft), Best Education Hack (TeacherTalent), Help A Community / Environment (CBRE)",,,,,http://hacktx17.devpost.com/submissions/80596-audary
+27,ProdActivity,"Best Data Visualization (Goldman Sachs), Best Use of Data Visualization (Qualtrics), Best project with a .tech domain name (.TECH), Best Microsoft Hack (Microsoft)",,,,,http://hacktx17.devpost.com/submissions/80597-prodactivity
+28,DiscoverBlack,"Social Good Challenge (JP Morgan Chase & Co), Best Education Hack (TeacherTalent)",,,,,http://hacktx17.devpost.com/submissions/80598-discoverblack
+29,StockStats,"Best Data Visualization (Goldman Sachs), Best Hack Involving a Financial Transaction (HBK Capital Management), Best Use of Data Visualization (Qualtrics), Best Financial Hack (Capital One), Generate Consumer Insights Using Citi APIs (Citi FinTech)",,,,,http://hacktx17.devpost.com/submissions/80599-stockstats
+30,Ground Zero,"Social Good Challenge (JP Morgan Chase & Co), Use Mongo the Best!! (MongoDB), Best project with a .tech domain name (.TECH), Help A Community / Environment (CBRE), Community Building Award (Facebook)",,,,,http://hacktx17.devpost.com/submissions/80601-ground-zero
+31,AdventureBot,"Bring Your Favorite Sci-Fi Technology to Life (BlueChasm), Best Microsoft Hack (Microsoft), Most Startup-Viable Hack (Contrary Capital)",,,,,http://hacktx17.devpost.com/submissions/80603-adventurebot
+32,Predix,"Best Domain Name from Domain.com, Best Data Visualization (Goldman Sachs), Amazon Web Services - Best Use of AWS, Best Use of Data Visualization (Qualtrics), Social Good Challenge (JP Morgan Chase & Co), Community Building Award (Facebook)",,,,,http://hacktx17.devpost.com/submissions/80604-predix
+33,TheStudyMap,"Best Education Hack (TeacherTalent), Community Building Award (Facebook), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80605-thestudymap
+34,Financial Road Trip Planner,"Best Financial Hack (Capital One), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80606-financial-road-trip-planner
+35,Hoop Labs,,,,,,http://hacktx17.devpost.com/submissions/80607-hoop-labs
+36,Visual Novel with a Minigame,,,,,,http://hacktx17.devpost.com/submissions/80608-visual-novel-with-a-minigame
+37,Safely,Social Good Challenge (JP Morgan Chase & Co),,,,,http://hacktx17.devpost.com/submissions/80609-safely
+38,Too Long; Didn't Watch (TL;DW),"Use Mongo the Best!! (MongoDB), Best project with a .tech domain name (.TECH), Best Microsoft Hack (Microsoft), Best Education Hack (TeacherTalent), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80610-too-long-didn-t-watch-tl-dw
+39,HackTX---SRS,"Best Education Hack (TeacherTalent), Help A Community / Environment (CBRE), Community Building Award (Facebook), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80611-hacktx-srs
+40,Cryptocurrency Market Analysis with Machine Learning,"Best Data Visualization (Goldman Sachs), Best Hack Involving a Financial Transaction (HBK Capital Management), Best Use of Data Visualization (Qualtrics), Best Financial Hack (Capital One)",,,,,http://hacktx17.devpost.com/submissions/80612-cryptocurrency-market-analysis-with-machine-learning
+41,FACEFEUD,"Bring Your Favorite Sci-Fi Technology to Life (BlueChasm), Best Microsoft Hack (Microsoft)",,,,,http://hacktx17.devpost.com/submissions/80613-facefeud
+42,Smart Flash,"Best Data Visualization (Goldman Sachs), Amazon Web Services - Best Use of AWS, Best Use of Data Visualization (Qualtrics), Use Mongo the Best!! (MongoDB), Best project with a .tech domain name (.TECH), Best Education Hack (TeacherTalent), Community Building Award (Facebook), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80614-smart-flash
+43,Receibo,,,,,,http://hacktx17.devpost.com/submissions/80615-receibo
+44,Moodify ,"Amazon Web Services - Best Use of AWS, Use Mongo the Best!! (MongoDB), Best Microsoft Hack (Microsoft), Community Building Award (Facebook)",,,,,http://hacktx17.devpost.com/submissions/80616-moodify
+45,Predictheball,"Bring Your Favorite Sci-Fi Technology to Life (BlueChasm), Best Data Visualization (Goldman Sachs), Best Hack Involving a Financial Transaction (HBK Capital Management), Best Use of Data Visualization (Qualtrics), Best Financial Hack (Capital One), Help A Community / Environment (CBRE), Community Building Award (Facebook)",,,,,http://hacktx17.devpost.com/submissions/80617-predictheball
+46,Emotigram,"Best Microsoft Hack (Microsoft), Most Startup-Viable Hack (Contrary Capital), Community Building Award (Facebook)",,,,,http://hacktx17.devpost.com/submissions/80620-emotigram
+47,Glassedelic,Bring Your Favorite Sci-Fi Technology to Life (BlueChasm),,,,,http://hacktx17.devpost.com/submissions/80621-glassedelic
+48,WeatherWear,"Best Microsoft Hack (Microsoft), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80622-weatherwear
+49,Greena,"Best Data Visualization (Goldman Sachs), Best Use of Data Visualization (Qualtrics), Use Mongo the Best!! (MongoDB), Help A Community / Environment (CBRE)",,,,,http://hacktx17.devpost.com/submissions/80623-greena
+50,Kaleidoscope,"Best Data Visualization (Goldman Sachs), Best Use of Data Visualization (Qualtrics), Best project with a .tech domain name (.TECH), Best Microsoft Hack (Microsoft), Best Education Hack (TeacherTalent), Help A Community / Environment (CBRE), SSO Challenge (ViaSat), Community Building Award (Facebook), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80624-kaleidoscope
+51,Pick Your Prof,,,,,,http://hacktx17.devpost.com/submissions/80625-pick-your-prof
+52,Smart Chain,"Best Hack Involving a Financial Transaction (HBK Capital Management), Best Financial Hack (Capital One), Best Microsoft Hack (Microsoft), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80626-smart-chain
+53,"""Generico"" Gas Station of the Future",Gas Station of the Future (ExxonMobil),,,,,http://hacktx17.devpost.com/submissions/80627-generico-gas-station-of-the-future
+54,Disaster Map,Social Good Challenge (JP Morgan Chase & Co),,,,,http://hacktx17.devpost.com/submissions/80628-disaster-map
+55,QuantSim,"Bring Your Favorite Sci-Fi Technology to Life (BlueChasm), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80629-quantsim
+56,Care Pair,"Social Good Challenge (JP Morgan Chase & Co), Best project with a .tech domain name (.TECH)",,,,,http://hacktx17.devpost.com/submissions/80630-care-pair
+57,Sage,"Best Data Visualization (Goldman Sachs), Best Retail Solution (BlueChasm), Best Hack Involving a Financial Transaction (HBK Capital Management), Best Use of Data Visualization (Qualtrics), Best Financial Hack (Capital One), Generate Consumer Insights Using Citi APIs (Citi FinTech), Gas Station of the Future (ExxonMobil), Best project with a .tech domain name (.TECH)",,,,,http://hacktx17.devpost.com/submissions/80631-sage
+58,MemeNet,"Bring Your Favorite Sci-Fi Technology to Life (BlueChasm), Help A Community / Environment (CBRE), Community Building Award (Facebook), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80632-memenet
+59,Doom Patrol Disaster Dispatch,Social Good Challenge (JP Morgan Chase & Co),,,,,http://hacktx17.devpost.com/submissions/80633-doom-patrol-disaster-dispatch
+60,emergensee,"Social Good Challenge (JP Morgan Chase & Co), Best project with a .tech domain name (.TECH), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80634-emergensee
+61,Gassy,"Best Data Visualization (Goldman Sachs), Best Retail Solution (BlueChasm), Gas Station of the Future (ExxonMobil), Best Microsoft Hack (Microsoft), Most Startup-Viable Hack (Contrary Capital)",,,,,http://hacktx17.devpost.com/submissions/80635-gassy
+62,Toilet Times,"Amazon Web Services - Best Use of AWS, Social Good Challenge (JP Morgan Chase & Co), Help A Community / Environment (CBRE), Community Building Award (Facebook), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80636-toilet-times
+63,UpLift,"Best Hack Involving a Financial Transaction (HBK Capital Management), Best Financial Hack (Capital One), Most Startup-Viable Hack (Contrary Capital), Community Building Award (Facebook)",,,,,http://hacktx17.devpost.com/submissions/80637-uplift
+64,patelojas.github.io,,,,,,http://hacktx17.devpost.com/submissions/80638-patelojas-github-io
+65,Alexa Interviewer,"Amazon Web Services - Best Use of AWS, Best project with a .tech domain name (.TECH), Best Education Hack (TeacherTalent), Help A Community / Environment (CBRE), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80639-alexa-interviewer
+66,watermelonTest2,,,,,,http://hacktx17.devpost.com/submissions/80640-watermelontest2
+67,Articulate,"Best Use of Data Visualization (Qualtrics), Use Mongo the Best!! (MongoDB), Best Microsoft Hack (Microsoft), Best Education Hack (TeacherTalent), Help A Community / Environment (CBRE), Most Startup-Viable Hack (Contrary Capital), Community Building Award (Facebook), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80641-articulate
+68,E-Track,"Best Education Hack (TeacherTalent), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80642-e-track
+69,Foodr,"Best Financial Hack (Capital One), Generate Consumer Insights Using Citi APIs (Citi FinTech), Best Microsoft Hack (Microsoft), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80643-foodr
+70,CreepAR,,,,,,http://hacktx17.devpost.com/submissions/80644-creepar
+71,Fuel My Ride,"Gas Station of the Future (ExxonMobil), Most Startup-Viable Hack (Contrary Capital), Community Building Award (Facebook), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80645-fuel-my-ride
+72,HackTX disaster relief project,,,,,,http://hacktx17.devpost.com/submissions/80646-hacktx-disaster-relief-project
+73,oklahackers.tech,"Best project with a .tech domain name (.TECH), Best Education Hack (TeacherTalent), Help A Community / Environment (CBRE), Most Startup-Viable Hack (Contrary Capital), Community Building Award (Facebook)",,,,,http://hacktx17.devpost.com/submissions/80647-oklahackers-tech
+74,ToolSeek,"Social Good Challenge (JP Morgan Chase & Co), Use Mongo the Best!! (MongoDB), Best project with a .tech domain name (.TECH), Best Microsoft Hack (Microsoft), Help A Community / Environment (CBRE), Most Startup-Viable Hack (Contrary Capital), Community Building Award (Facebook), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80648-toolseek
+75,talko,Best project with a .tech domain name (.TECH),,,,,http://hacktx17.devpost.com/submissions/80649-talko
+76,SUREBot,"Best Microsoft Hack (Microsoft), Help A Community / Environment (CBRE), Community Building Award (Facebook), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80650-surebot
+77,MyPage Text Modifier,"Best Education Hack (TeacherTalent), Help A Community / Environment (CBRE), SSO Challenge (ViaSat), Most Startup-Viable Hack (Contrary Capital), Community Building Award (Facebook)",,,,,http://hacktx17.devpost.com/submissions/80651-mypage-text-modifier
+78,Disaster Heat Map by jaamm.tech,,,,,,http://hacktx17.devpost.com/submissions/80652-disaster-heat-map-by-jaamm-tech
+79,Fantastic Filter,,,,,,http://hacktx17.devpost.com/submissions/80653-fantastic-filter
+80,Friends,,,,,,http://hacktx17.devpost.com/submissions/80654-friends
+81,Thunderfly,"Community Building Award (Facebook), Best First Time Hackathon Project",,,,,http://hacktx17.devpost.com/submissions/80655-thunderfly
+82,BathRoam,,,,,,http://hacktx17.devpost.com/submissions/80656-bathroam
+83,tutela,,,,,,http://hacktx17.devpost.com/submissions/80657-tutela
+84,Fitbit Alcohol Safety App,,,,,,http://hacktx17.devpost.com/submissions/80658-fitbit-alcohol-safety-app
