@@ -13,7 +13,7 @@ You can also use your own favico or Hackathon logo/header.
 <html>
 <head>
   <meta charset='utf-8'>
-  <title>Music Hacks Submissions</title>
+  <title>HackTX Submissions</title>
 
   <!-- Meta tags to eliminate caching. I don't totally get how these work, so you might not need all of them. cribbed from: http://stackoverflow.com/questions/1341089/using-meta-tags-to-turn-off-caching-in-all-browsers-->
   <meta http-equiv="cache-control" content="max-age=0" />
@@ -25,7 +25,7 @@ You can also use your own favico or Hackathon logo/header.
   <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
   <link href='//fonts.googleapis.com/css?family=Roboto:400,700,900,400italic' rel='stylesheet' type='text/css'>
   <link rel='stylesheet' type='text/css' href='css/style.css'>
-  <link rel="icon" href="https://freetailhackers.com/music-hacks/favicon.ico?v=2">
+  <link rel="icon" href="https://hacktx.com/assets/favicon-32x32.png">
   <script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js'></script>
   <script type='text/javascript' src='js/papaparse.min.js'></script>
   <script type='text/javascript' src='js/mustache.min.js'></script>
@@ -37,7 +37,7 @@ You can also use your own favico or Hackathon logo/header.
     <div id="header">
       <h1>
         <!-- <a href="https://hacktx16.devpost.com" title="Music Hacks Submissions"> -->
-          Music Hacks Submissions
+          HackTX Submissions
         </a>
       <h1>
     </div>
@@ -55,7 +55,7 @@ You can also use your own favico or Hackathon logo/header.
           <th class="name">Project</th>
 		  <th class="teamMembers">Team Members</th>
 		  <!--<th class="teamMembers">Team Members</th> -->
-          <!-- <th class="prize">Sponsor Prizes</th> -->
+          <th class="prize">Sponsor Prizes</th>
           <!-- <th class="cat">Category</th> <!--You can comment out this column if you don't need it-->
         </tr>
       </thead>
@@ -71,7 +71,7 @@ You can also use your own favico or Hackathon logo/header.
 			{{/github}}
 			<td class="teamMembers">{{teamMembers}}</td>
 			<!-- <td class="teamMembers">{{}}</td> -->
-            <!-- <td class="prize">{{sponsors}}</td> -->
+            <td class="prize">{{sponsors}}</td>
             <!-- <td class="cat">{{category}}</td> <!--You can comment out this column if you don't need it-->
           </tr>
         {{/data}}
